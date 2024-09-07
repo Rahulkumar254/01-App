@@ -8,6 +8,9 @@ class BootDataJpaProj1CrudRepositoryApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+        int j=10;
+        int k=10;
 	}
 
 }
